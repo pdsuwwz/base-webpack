@@ -1,2 +1,1 @@
-import Mvvm from './mvvm'
-console.log(Mvvm)
+console.log('Hello World!')
